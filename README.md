@@ -12,7 +12,7 @@ OneKey是一家总部位于新加坡的区块链公司，专注于多链钱包�
 1. 登录OneKey后，点击“激活”，选择您的卡片并完成身份验证，即可领取虚拟卡。
 2. 在使用卡片前，您需要进行充值，并获取CVV信息以绑定至支付渠道。
 
-[OneKey Card 优惠开户链接](https://bit.ly/4cNypKM)
+- [OneKey Card 优惠开户链接](https://bit.ly/4cNypKM)
 
 ## 费率及奖励
 
